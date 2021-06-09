@@ -1,9 +1,9 @@
 ### Hi there, I'm Mauritz Erick - aka Maumau 👋
 
 
-## I'm a Full Stack Developer and a ML enthusiast!
+## I'm a Full Stack Developer and a Tech Support!
 
-- 🌱 I’m currently learning everything! �
+- 🌱 I’m currently learning everything!
 - ⚡ Always excited to work on absolutely anything related to tech.
 
 ---
