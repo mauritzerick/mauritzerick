@@ -37,9 +37,9 @@
 <br />
 <br />
 
----
+<!-- ---
 ![Mauritz's github stats](https://github-readme-stats.vercel.app/api?username=mauritzerick&show_icons=true&theme=radical)
----
+--- -->
 
 [instagram]: https://www.instagram.com/mauritzerick/
 [linkedin]: https://www.linkedin.com/in/mauritzerick/
