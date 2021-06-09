@@ -1,4 +1,4 @@
-### Hi there, I'm Mauritz Erick - aka Maumau 👋
+### Hi there, I'm Mauritz Erick - aka mau 👋
 
 
 ## I'm a Full Stack Developer and a Tech Support!
