@@ -15,7 +15,7 @@
 
 <br /> -->
 
----
+<!-- --- -->
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/akashdeepnandi/akashdeepnandi/master/svg/laravel.svg" />
