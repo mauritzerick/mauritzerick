@@ -38,7 +38,7 @@
 <br />
 
 ---
-![Mauritz's github stats](https://github-readme-stats.vercel.app/api?username=akashdeepnandi&show_icons=true&theme=radical)
+![Mauritz's github stats](https://github-readme-stats.vercel.app/api?username=mauritzerick&show_icons=true&theme=radical)
 ---
 
 [instagram]: https://www.instagram.com/mauritzerick/
