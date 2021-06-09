@@ -1,7 +1,7 @@
 ### Hi there, I'm Mauritz Erick 👋
 
 
-## I'm a Full Stack Developer and a Tech Support!
+## I'm a Full Stack Developer and Tech Support!
 
 - 🌱 I’m currently learning everything!
 - ⚡ Always excited to work on absolutely anything related to tech.
