@@ -1,7 +1,7 @@
 ### 👋🏼 Hi there!!! Connect with me on [Linkedin](https://www.linkedin.com/in/mauritzerick/) 👋🏼
 
 
-## I'm a Full Stack Developer and Tech Support!
+## I'm a Full Stack Developer / Tech Support!
 
 - 🌱 I’m currently learning everything!
 - ⚡ Always excited to work on absolutely anything related to tech.
