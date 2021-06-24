@@ -1,4 +1,4 @@
-### Hi there, I'm Mauritz Erick 🥷
+### Hi there 👋 welcome to my github page.
 
 
 ## I'm a Full Stack Developer and Tech Support!
