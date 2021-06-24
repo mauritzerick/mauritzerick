@@ -43,22 +43,3 @@
 [instagram]: https://www.instagram.com/mauritzerick/
 [linkedin]: https://www.linkedin.com/in/mauritzerick/
 
-<details>
-
-<summary>Expand: More About Me...</summary>
-
-<p>
-
-```javascript
-const Mauritz = {
-  code: [JavaScript, Laravel, Python, C++],
-  tools: [React, Node, Jest, Docker, GitHub, Azure, GCP],
-  architecture: ["microservices", "event-driven", "layered"],
-  techCommunities: {
-    coorganizer: "somewhere in the near future",
-    speaker: "somewhere in the near future"
-    mentor: ["somewhere in the near future"],
-  },
-  challenge: "This year, I want to become a senior software engineer, master React, and understand how to run a successful startup.",
-};
-```
