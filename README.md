@@ -45,7 +45,7 @@
 <p>
 
 ```javascript
-const Mauritz = {
+const mauritzE = {
   code: [JavaScript, Laravel, Python, C++],
   tools: [React, Node, GitHub, Azure, ZenDesk],
   architecture: ["microservices", "event-driven", "layered"],
