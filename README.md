@@ -50,7 +50,7 @@
 ```javascript
 const Mauritz = {
   code: [JavaScript, Laravel, Python, C++],
-  tools: [React, Node, Jest, Docker, GitHub, Azure, GCP],
+  tools: [React, Node, GitHub, Azure, ZenDesk],
   architecture: ["microservices", "event-driven", "layered"],
   techCommunities: {
     coorganizer: "somewhere in the near future",
