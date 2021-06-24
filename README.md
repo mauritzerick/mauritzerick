@@ -1,4 +1,4 @@
-### 👋🏼 Hi there!!! Connect with me on [Linkedin](https://www.linkedin.com/in/mauritzerick/) 👋🏼
+### 👋🏼 Hi there! Connect with me on [Linkedin](https://www.linkedin.com/in/mauritzerick/) 👋🏼
 
 
 ## I'm a Full Stack Developer / Tech Support!
