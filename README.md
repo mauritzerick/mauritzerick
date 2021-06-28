@@ -40,7 +40,7 @@
 
 <details>
 
-<summary>Expand: More about me...</summary>
+<summary>Expand: more about me...</summary>
 
 <p>
 
