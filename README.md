@@ -48,7 +48,6 @@
 const mauritzE = {
   code: [JavaScript, Laravel, Python, C++],
   tools: [React, Node, GitHub, Azure, ZenDesk],
-  architecture: ["microservices", "event-driven", "layered"],
   techCommunities: {
     coorganizer: "somewhere in the near future",
     speaker: "somewhere in the near future"
